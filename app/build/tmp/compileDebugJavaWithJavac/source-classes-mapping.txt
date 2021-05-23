@@ -1,0 +1,32 @@
+com/example/convector/MainInterface.java
+ com.example.convector.MainInterface
+ com.example.convector.MainInterface$Controller
+ com.example.convector.MainInterface$Model
+ com.example.convector.MainInterface$NavigationFragments
+ com.example.convector.MainInterface$ViewComponent
+ com.example.convector.MainInterface$ViewComponent$ChooseFragment
+ com.example.convector.MainInterface$ViewComponent$ConvectorActivity
+ com.example.convector.MainInterface$ViewComponent$ConvectorCalculateFragment
+com/example/convector/BuildConfig.java
+ com.example.convector.BuildConfig
+com/example/convector/Fragments/ChooseCurrencyFragment.java
+ com.example.convector.Fragments.ChooseCurrencyFragment
+com/example/convector/Currency.java
+ com.example.convector.Currency
+com/example/convector/ChooseAdapter.java
+ com.example.convector.ChooseAdapter
+ com.example.convector.ChooseAdapter$ViewHolder
+com/example/convector/ModelComponent.java
+ com.example.convector.ModelComponent
+com/example/convector/SingletonModel.java
+ com.example.convector.SingletonModel
+com/example/convector/Controller.java
+ com.example.convector.Controller
+com/example/convector/MainActivity.java
+ com.example.convector.MainActivity
+ com.example.convector.MainActivity$1
+ com.example.convector.MainActivity$1$1
+com/example/convector/Fragments/CalculateFragment.java
+ com.example.convector.Fragments.CalculateFragment
+ com.example.convector.Fragments.CalculateFragment$1
+ com.example.convector.Fragments.CalculateFragment$2

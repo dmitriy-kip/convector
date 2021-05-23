@@ -1,0 +1,2 @@
+rootProject.name = "convector"
+include ':app'

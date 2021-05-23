@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Конвертер валют</string>
+    <string name="change_currency">Изменить валюту</string>
+    <string name="error">Что то пошло не так. Попробуйте перезапустить приложение!</string>
+    <string name="cancel">Отмена</string>
+    <string name="network_error">Нет доступа в интернет. Проверьте ваше подключение и попрбуйте снова.</string>
+    <string name="chooseTitle">Выбор валют</string>
+    <string name="download_error">Не удалось получть информацию о стоимости валют. Попробуйте еще раз позже.</string>
+    <string name="count_error">E</string>
+</resources>
